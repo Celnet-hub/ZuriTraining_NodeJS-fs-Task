@@ -1,6 +1,6 @@
 # Working with fs(file system) module in Node.js
 
-## Task
+ *Task:*
 
 * Create a script file that fetches data from JSON PLACEHOLDER POSTS
 
